@@ -10,7 +10,24 @@
 
 
 ##  Project Description
-This website aims at making a working and functioning projects that has can be used in the running opeartion of a Pizza company.
+This website aims at making a working and functioning projects that has can be used in the running opeartion of a Quote website. 
+
+## Set Up Instruction Section
+
+No installation information or packages required only angular npm.
+
+Set up:
+* Clone the repository from the Github repo by: 
+
+git clone https://github.com/AlexWanyoike/New-Angular--Quote-Project.git
+
+* Clone all the information to your local repository and analyze the data in a more effective manner. 
+
+* Link to access the Angular Project
+
+
+
+
 ## Setup/Installation Requirements
 * CSS
 * HTML
