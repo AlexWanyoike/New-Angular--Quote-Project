@@ -34,3 +34,8 @@ git clone https://github.com/AlexWanyoike/New-Angular--Quote-Project.git
  
 * Link to access the Angular Project
 
+ 
+## Development server
+ 
+Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+
