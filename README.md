@@ -23,9 +23,11 @@ git clone https://github.com/AlexWanyoike/New-Angular--Quote-Project.git
  
 * Clone all the information to your local repository and analyze the data in a more effective manner.
  
-* Link to access the Angular Project
+* Link to access the Angular Project:
 
 https://alexwanyoike.github.io/QuoteItOutProject-/
+
+
 
 ## Set up:
 * Clone the repository from the Github repo by:
