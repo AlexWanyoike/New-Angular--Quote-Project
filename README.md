@@ -25,6 +25,8 @@ git clone https://github.com/AlexWanyoike/New-Angular--Quote-Project.git
  
 * Link to access the Angular Project
 
+https://alexwanyoike.github.io/QuoteItOutProject-/
+
 ## Set up:
 * Clone the repository from the Github repo by:
  
